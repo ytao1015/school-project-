@@ -1,0 +1,3 @@
+Bob	Warrior	M	100
+Samantha	Mage	F	200
+John	Thief	M	275
